@@ -2165,7 +2165,7 @@ input, select, textarea {
 		opacity: 0.5;
 	}
 
-/* Image */
+/* Image images/overlay.png */
 
 	.image {
 		border: 0;
@@ -2178,7 +2178,7 @@ input, select, textarea {
 			-webkit-transition: opacity 0.25s ease-in-out;
 			-ms-transition: opacity 0.25s ease-in-out;
 			transition: opacity 0.25s ease-in-out;
-			background-image: url("images/overlay.png");
+			background-image: url("");
 			content: '';
 			display: block;
 			height: 100%;
